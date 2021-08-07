@@ -10,7 +10,6 @@
 
 ---
 
-
 # Table of Contents
 <ul>
 	<li>Getting Started</a></li>
@@ -42,7 +41,7 @@
 - [ ] Avoid SQL injection attacks
 - [ ] Implement a password generator which would generate secure passwords for the user to put for their websites or applications.
 
-<h2> Built with</h2>
+# Built with
 <ul>
 	<li>Core
     		<p>
