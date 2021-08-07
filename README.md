@@ -31,14 +31,14 @@
 # Features
 
 - [X] Multiple users 
-- [X] Passwords are stored encrypted with a diferent key for each user
-- [X] Options to add or remove user
-- [X] Options to add remove, update and check password for a given service
-- [X] Option to check registered services
-- [X] GUI
+- [X] Passwords are stored encrypted with a diferent key for each user.
+- [X] Options to add or remove a user.
+- [X] Options to add , remove , update and check password for a given service or application.
+- [X] Option to check registered services.
+- [X] GUI based application.
 
 # To Do
-- [ ] Avoid SQL injection attacks
+- [ ] Avoid SQL injection attacks.
 - [ ] Implement a password generator which would generate secure passwords for the user to put for their websites or applications.
 
 # Built with
