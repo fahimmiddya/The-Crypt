@@ -51,7 +51,7 @@
   	<li>Storage
     	<p>
 				<a href="https://www.sqlite.org">SQLite</a> -  
-				a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+				It is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. 
 			</p>
   	</li>
 		<li>GUI
