@@ -3,7 +3,7 @@
 ---
 
 <p>
-  A simple GUI based password manager to store multiple passwords for multiple users and their services.
+  GUI based password manager to store multiple passwords for multiple users and their services.
   All the passwords are encrypted before storing and a user cant access other users informations.
 </p>
 
